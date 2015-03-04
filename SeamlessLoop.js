@@ -141,8 +141,10 @@ SeamlessLoop.prototype.start = function(id) {
 
 SeamlessLoop.prototype.volume = function(vol) {
 	if(typeof vol != "undefined") {
-		this.actual._1.volume = vol;
-        	this.actual._2.volume = vol;
+		//this.actual._1.volume = vol;
+        	//this.actual._2.volume = vol;
+		this.audios.sound1._1.volume = vol;
+		this.audios.sound1._2.volume = vol;
 		this._volume = vol;
 	}
 	
