@@ -1,3 +1,5 @@
+forked to fix volume adjustment error
+
 SeamlessLoop 2.0 for JavaScript
 ===============================
 
