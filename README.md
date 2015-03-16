@@ -1,4 +1,4 @@
-forked to fix volume adjustment error
+forked to fix volume adjustment error: maybe not error, but would not update vol.
 
 SeamlessLoop 2.0 for JavaScript
 ===============================
